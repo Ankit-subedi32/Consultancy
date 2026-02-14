@@ -12,7 +12,7 @@ export default defineConfig(({ mode }) => ({
       overlay: false,
     },
   },
-  base : "/",
+  base : "/Consultancy",
   plugins: [react(),].filter(Boolean),
   resolve: {
     alias: {
